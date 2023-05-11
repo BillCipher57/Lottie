@@ -1,4 +1,4 @@
-# Lottie MK I - your best friend!
+# Lottie MK I - a new AI assistant!
 
 
 Using the combined powers of Natural Language Processing, Intent Classification, and the Carter API, Lottie is here to help you and make your life easier!
