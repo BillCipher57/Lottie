@@ -20,5 +20,13 @@ Lottie has several built-in functions besides its Artificial Intelligence, and i
 # What makes Lottie different to all other open source AIs?
 
 Lottie's natural language generation is provided by Carter, which delivers fast and powerfully intelligent responses to its users. 
+
 Her natural language processing uses the powerful combination of NLTK and PyTorch libraries.
+
 Apart from that, absolutely nothing, I just wanted to make a version of my personal Lily framework that everyone can use.
+
+# Setup?
+
+To set up Lottie, first you'll need to run the 'configuration.py' program, which will bring up a tkinter interface. On which, you will be given prompts which must all be filled in order for Lottie to run efficiently. This will also automatically install your packages, given a click.
+
+Lottie MK I will be primarily modified to run on Python 3.10, and is designed around MacOS, but compatibility will be extended in future releases.
