@@ -1,5 +1,6 @@
 # Lottie MK I - a new AI assistant!
 
+(Initial release date: 20th June 2023)
 
 Using the combined powers of Natural Language Processing, Intent Classification, and the Carter API, Lottie is here to help you and make your life easier!
 
